@@ -1,1 +1,3 @@
-繼電器 控制電流開關 https://tutorials.webduino.io/zh-tw/docs/basic/component/relay.html
+繼電器(Relay) 控制電流開關
+Voltage and current sensors (Hall effect based)
+Socket module (Communication)

@@ -1,0 +1,4 @@
+PWM Analog Read And Write
+	https://www.youtube.com/watch?v=TjJ1CoQCgC4
+photoresistor
+	https://create.arduino.cc/projecthub/MisterBotBreak/how-to-use-a-photoresistor-46c5eb
